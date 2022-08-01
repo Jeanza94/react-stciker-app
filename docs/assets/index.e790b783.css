@@ -1,5 +1,5 @@
 body {
-    background-image: url(./assets/image1.jpg);
+    background-image: url(./image1.jpg);
     background-size: cover;
     color: #fff;
     font-size: 20px;
@@ -18,7 +18,7 @@ body {
     position: fixed;
     top: 0;
     display: flex;
-    background-image: url(./assets/image1.webp);
+    background-image: url(./image1.webp);
     width: 100vw;
     height: 48px;
     justify-content: space-between;
@@ -88,7 +88,7 @@ form button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(./assets/image2.webp);
+    background-image: url(./image2.webp);
     width: 100vw;
     height: 48px;
     font-size: 16px;
